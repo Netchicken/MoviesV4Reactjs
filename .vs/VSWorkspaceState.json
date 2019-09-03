@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\redux",
+    "\\src\\redux\\reducers"
+  ],
+  "SelectedNode": "\\src\\components\\App.js",
+  "PreviewInSolutionExplorer": false
+}

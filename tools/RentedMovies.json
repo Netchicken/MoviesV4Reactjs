@@ -1,0 +1,23 @@
+[
+    {
+        "CustIDFK": 1,
+        "DateRented": "2019-01-01 00:00:00",
+        "DateReturned": "2019-01-01 00:00:00",
+        "MovieIDFK": 1,
+        "RMID": 1
+    },
+    {
+        "CustIDFK": 2,
+        "DateRented": "2019-01-01 00:00:00",
+        "DateReturned": "2019-01-01 00:00:00",
+        "MovieIDFK": 2,
+        "RMID": 2
+    },
+    {
+        "CustIDFK": 5,
+        "DateRented": "2019-01-01 00:00:00",
+        "DateReturned": "2019-01-01 00:00:00",
+        "MovieIDFK": 5,
+        "RMID": 3
+    }
+]
